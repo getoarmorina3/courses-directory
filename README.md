@@ -4,5 +4,5 @@ This project is created with [Create React App](https://github.com/facebook/crea
 
 Routing is the process of matching a URL to the set of components being rendered. Routing dynamically loads components and changes what's displayed in the browser as users navigate an app, all without reloading the page. React does not have built-in routing features, so developers rely on React Router, an external library designed specifically for React.
 
-Open [This Link](https://teacher-courses.vercel.app/) to view it in your browser.
+Live [Demo](https://teacher-courses.vercel.app/) to view it in your browser.
 
